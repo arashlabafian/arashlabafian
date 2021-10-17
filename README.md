@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @arashlabafian
 - 👀 I’m interested in Software engineering
-- 🌱 I’m currently learning Next.js
 - 💞️ I’m looking to collaborate on React.js projects
 - 📫 How to reach me : https://arashlabafian.com
 
