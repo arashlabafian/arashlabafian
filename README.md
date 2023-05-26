@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arashlabafian
-- 👀 I’m interested in App Development
-- 💞️ I’m looking to collaborate on React.js projects
+- 👀 I’m interested in Cross Platform App Development
+- 💞️ I’m looking to collaborate on React Native projects
 - 📫 How to reach me : https://arashlabafian.com
 
 <!---
