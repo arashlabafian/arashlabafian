@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @arashlabafian
 - 👀 I’m interested in Cross Platform App Development
 - 💞️ I’m looking to collaborate on React Native projects
-- 📫 How to reach me : https://arashlabafian.com
+- https://arashlabafian.com
 
 <!---
 arashlabafian/arashlabafian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
